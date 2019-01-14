@@ -1,4 +1,4 @@
-Name of Project : Ordered Pairwise Partitioning Algorithms
+Name of Project : opp_comp_abalone_analysis
 
 Published in : The Role of Rating Ordinality in Machine Learning Based Corporate Credit Models (Master Thesis, Ladislaus von Bortkiewicz Chair of Statistics, Humboldt-Universität zu Berlin)
 
